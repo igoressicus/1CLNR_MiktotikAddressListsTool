@@ -24,7 +24,7 @@
     <Compile Include="_1CLNR_MiktotikAddressListsTool.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="promt.1clnrpromt" />
+    <Content Include="notes.1clnrnotes" />
     <Content Include="test.cmd" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
